@@ -1,3 +1,6 @@
+## typos included 
+
+
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Alert } from 'react-native';
 import Svg, { Circle, Path } from 'react-native-svg';
