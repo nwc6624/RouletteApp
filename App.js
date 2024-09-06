@@ -7,6 +7,10 @@ import RouletteWheel from './app/RouletteWheel';
 const Stack = createStackNavigator();
 
 const App = () => {
+
+
+
+    dbf sw
     return (
         <NavigationContainer>
             <Stack.Navigator initialRouteName="Splash">
