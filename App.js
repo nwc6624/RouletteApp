@@ -9,7 +9,7 @@ const Stack = createStackNavigator();
 const App = () => {
 
 
-
+vdv 
     dbf sw
     return (
         <NavigationContainer>
