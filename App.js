@@ -7,7 +7,7 @@ import RouletteWheel from './app/RouletteWheel';
 const Stack = createStackNavigator();
 
 const App = () => {
-
+ //not working here 
 
 vdv 
     dbf sw
