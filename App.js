@@ -4,8 +4,6 @@ import { createStackNavigator } from '@react-navigation/stack';
 import SplashScreen from './app/SplashScreen';
 import RouletteWheel from './app/RouletteWheel';
 
-
-// last edited here
 const Stack = createStackNavigator();
 
 const App = () => {
