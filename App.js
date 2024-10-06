@@ -6,6 +6,9 @@ import RouletteWheel from './app/RouletteWheel';
 
 const Stack = createStackNavigator();
 
+
+
+
 const App = () => {
     return (
         <NavigationContainer>
